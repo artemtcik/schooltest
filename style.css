@@ -1,0 +1,37 @@
+body{
+    background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+font: italic small-caps bold 16px/2 cursive;
+}
+input{
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,0.8827906162464986) 76%, rgba(252,176,69,1) 100%);
+    font: italic small-caps bold 16px/2 cursive;
+    
+
+height: 50px;
+width: 350px;
+color: whitesmoke;
+border-radius: 15px;
+
+
+}
+
+input::placeholder {
+    
+    color: white;
+  }
+  
+form{
+    color: whitesmoke;
+    position: absolute;
+top: 40%;
+left: 40%;
+}
+
+.div2,.div3{
+    color: white;
+    position: absolute;
+top:68%;
+left: 39%;
+}
